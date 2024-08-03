@@ -46,7 +46,7 @@ fun HomeScreen(name: String){
     TopAppBar(modifier = Modifier.padding(),title = { Row {
         Text(text = "Good Evening!")
         IconButton(onClick = {}) {
-            Icon..
+
         }
     }
     })
