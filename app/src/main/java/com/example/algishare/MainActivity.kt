@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
             AlgiShareTheme {
                 Scaffold(modifier = Modifier.padding(all = Dp(0f))) {
                     HomeScreen(
-                        name = ""
+                        name = "ss"
                     )
                 }
             }
